@@ -1,0 +1,7 @@
+# INSTALL
+
+To execute the DAG generator, some third-party dependency libraries need to be installed.
+
+Please follow the instructions below to complete the installation.
+
+    pip install networkx networkx igraph numpy sqlite3 hashlib pickle -i https://pypi.tuna.tsinghua.edu.cn/simple 

@@ -1,0 +1,10 @@
+
+# STATUS
+
+## Badge Types Applied For
+1. **Artifact Evaluated**  
+
+
+## Application Rationale
+
+This artifact is an efficient and formally verified full-topology DAG generator that is able to control all major parameters. In addition, we have also implemented other popular DAG generators (GNM, LBL, FIO and SoTA).
